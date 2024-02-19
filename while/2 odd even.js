@@ -15,4 +15,20 @@ Find all the even numbers from 78 to 98.
 
  */
 
-/*programming hero*/
+/*Dibyendu Code*/
+
+// let num=61;
+// while(num<=100){
+//     if(num%2==0){
+//         console.log(num);
+//     }
+//     num=num+1;
+// }
+
+let num=78;
+while(num<=94){
+    if(num%2!==0){
+        console.log(num);
+    }
+    num=num+1;
+}

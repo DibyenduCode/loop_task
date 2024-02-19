@@ -5,4 +5,10 @@ As Ersa is learning now, she wants to explore more and more. Tell Ersa to genera
  */
 
 
-/*programming hero*/
+/*Dibyendu code*/
+
+let num=1;
+while(num<=10){
+    console.log(5*num);
+    num+=1;
+}
